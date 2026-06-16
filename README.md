@@ -1,5 +1,3 @@
-# arcgis-exb-dev-assistant
-
 # AI Developer Assistant for ArcGIS Experience Builder
 
 An AI-powered developer assistant embedded directly inside ArcGIS Experience Builder that can generate custom widget code, understand the Jimu framework, and write files directly into your project.
